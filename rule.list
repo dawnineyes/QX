@@ -2,8 +2,8 @@
 HOST-SUFFIX,deepseek.com,DIRECT
 
 # > Proxies
-HOST-SUFFIX,cool18.com,Proxies
-HOST-SUFFIX,18comic.vip,Proxies
-HOST-SUFFIX,69shuba.cx,Proxies
-HOST-SUFFIX,69yuedu.net,Proxies
-HOST-KEYWORD,69shu,Proxies
+HOST-SUFFIX,cool18.com,own
+HOST-SUFFIX,18comic.vip,own
+HOST-SUFFIX,69shuba.cx,own
+HOST-SUFFIX,69yuedu.net,own
+HOST-KEYWORD,69shu,own
