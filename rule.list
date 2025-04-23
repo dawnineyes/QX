@@ -9,4 +9,4 @@ HOST-SUFFIX,69yuedu.net,own
 HOST-KEYWORD,69shu,own
 
 # > REJECT
-HOST-SUFFIX,hm.baidu.com
+HOST-SUFFIX,hm.baidu.com,REJECT
