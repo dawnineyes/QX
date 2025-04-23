@@ -7,3 +7,6 @@ HOST-KEYWORD,18comic,own
 HOST-SUFFIX,69shuba.cx,own
 HOST-SUFFIX,69yuedu.net,own
 HOST-KEYWORD,69shu,own
+
+# > REJECT
+HOST-SUFFIX,hm.baidu.com
