@@ -4,11 +4,11 @@ HOST-SUFFIX,sub.kwk7thgc.com,DIRECT
 
 
 # > Proxies
-HOST-SUFFIX,cool18.com,own
-HOST-KEYWORD,18comic,own
-HOST-SUFFIX,69shuba.cx,own
-HOST-SUFFIX,69yuedu.net,own
-HOST-KEYWORD,69shu,own
+HOST-SUFFIX,cool18.com,Proxies
+HOST-KEYWORD,18comic,Proxies
+HOST-SUFFIX,69shuba.cx,Proxies
+HOST-SUFFIX,69yuedu.net,Proxies
+HOST-KEYWORD,69shu,Proxies
 
 # > REJECT
 HOST-SUFFIX,hm.baidu.com,REJECT
