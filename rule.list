@@ -1,5 +1,7 @@
 # > DIRECT
 HOST-SUFFIX,deepseek.com,DIRECT
+HOST-SUFFIX,sub.kwk7thgc.com,DIRECT
+
 
 # > Proxies
 HOST-SUFFIX,cool18.com,own
