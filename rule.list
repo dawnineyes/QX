@@ -1,7 +1,7 @@
 # > DIRECT
 HOST-SUFFIX,deepseek.com,DIRECT
 HOST-SUFFIX,sub.kwk7thgc.com,DIRECT
-
+HOST-SUFFIX,cloudplayplus.com,DIRECT
 
 # > Proxies
 HOST-SUFFIX,cool18.com,Proxies
